@@ -1,0 +1,2 @@
+Multistage project, where part1 is a simple interception of system calls, and part 2 is a kernel module that prints out information about a process in the kernel and through a user side program that calls a system call.
+Worked on with djsullivan, who's github can be found at: github.com/DannyJSullivan

@@ -1,0 +1,4 @@
+Jan 14 19:33:45 CS-3013-VM nm-dispatcher: req:1 'dhcp4-change' [enp0s3]: start running ordered scripts...
+Jan 14 19:34:08 CS-3013-VM kernel: [ 2892.407238] ‘Hello, world #1!’ -- syscall1
+Jan 14 19:34:08 CS-3013-VM kernel: [ 2892.407283] ‘Hello, world #2!’ – syscall2
+Jan 14 19:34:08 CS-3013-VM kernel: [ 2892.407321] ‘Hello, world #3!’ – syscall3

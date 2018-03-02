@@ -1,0 +1,2 @@
+Linux CS-3013-VM 4.15.0-rc7etarthurfin+ #3 SMP Sun Jan 14 18:12:26 EST 2018 x86_64 x86_64 x86_64 GNU/Linux
+
